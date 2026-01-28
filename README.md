@@ -1,6 +1,6 @@
 CDPulse is a lightweight and highly customizable cooldown pulse addon that provides clear visual and optional audio alerts when your tracked abilities become available. Designed for both PvE and PvP, CDPulse helps you react instantly without cluttering your UI.
 
-<img width="694" height="690" alt="image" src="https://github.com/user-attachments/assets/e1048e12-24c8-4c5c-972e-f3841f425a85" />
+<img width="694" height="690" alt="image" src="https://github.com/user-attachments/assets/b9540684-61d4-4d6e-812c-466c44d5bdd5" />
 
 Core Features ( /cdp )
 - Clean pulse animation when cooldowns complete
