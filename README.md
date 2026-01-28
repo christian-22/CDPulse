@@ -1,8 +1,8 @@
-CDPulse is a lightweight and highly customizable cooldown pulse addon that provides clear visual and optional audio alerts when your tracked abilities become available. Designed for both PvE and PvP, CDPulse helps you react instantly without cluttering your UI.
+**CDPulse** is a lightweight and highly customizable cooldown pulse addon that provides clear visual and optional audio alerts when your tracked abilities become available. Designed for both PvE and PvP, CDPulse helps you react instantly without cluttering your UI.
 
-Curseforge link: https://www.curseforge.com/wow/addons/cdpulse
+**Curseforge link:** https://www.curseforge.com/wow/addons/cdpulse
 
-Core Features ( /cdp )
+**Core Features ( /cdp )**
 - Clean pulse animation when cooldowns complete
 - Optional sound alerts with per-spell sound selection
 - Whitelist-based spell tracking
