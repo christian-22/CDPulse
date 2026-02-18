@@ -1,0 +1,19 @@
+## Interface: 120001, 120000
+## Title: CDPulse
+## Notes: Cooldown pulse alerts. (12.0.1 architecture). Now supports item tracking!
+## Author: Cree
+## Version: 2.3.4
+## SavedVariables: CDPulseDB
+## IconTexture: Interface\AddOns\CDPulse\cdp-icon.blp
+
+# Embedded libraries
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+
+# Core modules
+CDPulse_Log.lua
+CDPulse_Engine.lua
+CDPulse.lua
+CDPulse_TooltipSpellIDs.lua
+CDPulse_Options.lua
